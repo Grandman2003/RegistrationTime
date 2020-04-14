@@ -1,6 +1,6 @@
 # RegistrationTime
 For Maxsim (to have fun)
-Hi there, it is your time to have stressful fun!!!I have received you a project with registration activity and account_home activity.
+Hi there, it is your time to have stressful fun!!!I have sent you a project with registration activity and account_home activity.
 You need to do some things:
 1)add Firebase service, which will save account information(login and password for a start)
 2)take information from FireBase and put it in the account information fields in account home activity.
